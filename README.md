@@ -1,0 +1,1 @@
+Each sub-directory in the rubyintro directory contains exercises from section of the Intro to Ruby Book by Launch School: https://launchschool.com/books/ruby
